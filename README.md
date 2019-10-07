@@ -1,4 +1,4 @@
-## Running the puzzles
+# Puzzles
 The two little programs here are solutions to the puzzles described in [CHALLANGE.md](./CHALLANGE.md).
 
 ## Running the puzzles
