@@ -1,0 +1,14 @@
+{
+  "name": "puzzles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava",
+    "test:puzzle-1": "ava ./puzzle-1.test.js",
+    "test:puzzle-2": "ava ./puzzle-2.test.js"
+  },
+  "dependencies": {
+    "ava": "^2.4.0"
+  }
+}
