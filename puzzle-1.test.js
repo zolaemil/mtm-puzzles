@@ -10,7 +10,7 @@ test('smallest common multiplier of whole numbers between 1 and 19', t => {
 });
 
 test('smallest common multiplier of whole numbers between 1 and N for all Ns until 50', t => {
-  for (let N = 3; N < 30; N += 1) {
+  for (let N = 3; N <= 30; N += 1) {
     const result = smallesetMultiplier(N);
 
     for (let k = 2; k < N; k += 1) {
